@@ -1,0 +1,47 @@
+body {
+	text-align: center;
+	margin-top: auto;
+	background: #12161d;
+	color: #e99520;
+	font-family: "consolas";
+}
+
+#timer {
+	font-size: 100px;
+	font-weight: 300;
+}
+
+button {
+width: 30%;
+	font-family: 'Oxygen', sans-serif;
+background-color: #9A1B27;
+padding: 12px 45px;
+border-radius: 5px;
+cursor: pointer;
+color:#e5a038;
+border: none;
+outline-width: 20px;
+margin: 0pc;
+font-weight: bold;
+font-size: 20pt;
+}
+button:hover {
+	cursor: pointer;
+}
+.alarmTime{
+
+	width: 30%;
+	font-family: 'Oxygen', sans-serif;
+background-color: #9A1B27;
+padding: 12px 45px;
+border-radius: 10px;
+cursor: pointer;
+color:##f7952b;
+border: none;
+outline-width: 20px;
+margin: 0pc;
+font-weight: bold;
+font-size: 20pt;
+
+
+}
